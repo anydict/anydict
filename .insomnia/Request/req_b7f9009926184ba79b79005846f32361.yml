@@ -1,0 +1,23 @@
+_id: req_b7f9009926184ba79b79005846f32361
+type: Request
+parentId: wrk_967380e3efe74fa0998ca73d39eb711b
+modified: 1702072597625
+created: 1702072572368
+url: https://google.ru
+name: Test Google Main
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1702072572368
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

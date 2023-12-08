@@ -1,0 +1,16 @@
+_id: env_176831d9814c4967b8cbb3651954489e
+type: Environment
+parentId: env_f35bc5ef7bf7eb25ca128f018715b97c3f4898cb
+modified: 1702072218577
+created: 1681507825323
+name: LOCAL_SERVICE
+data:
+  address: 127.0.0.1
+  port: "8090"
+dataPropertyOrder:
+  "&":
+    - address
+    - port
+color: null
+isPrivate: false
+metaSortKey: 1681507825323
